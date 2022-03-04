@@ -1,4 +1,4 @@
-let inputText = document.getElementById("input-text");
+let inputText = document.getElementById("text-area");
 inputText.focus();
 
 let msgEncript = document.getElementById("msg");
