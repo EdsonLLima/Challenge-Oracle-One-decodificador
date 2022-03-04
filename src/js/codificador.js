@@ -7,8 +7,14 @@ let buttonEncrypt = document.getElementById("button-encrypt");
 
 buttonEncrypt.addEventListener("click", (event) => {
   event.preventDefault();
-  encryptLetters(); //Criptografa as letras
-  cleaningInput();
+  if (inputText.value == "") {
+    alert(
+      "Aviso! O campo texto está vazio, digite uma palavra ou frase para criptografar ou descriptografar"
+    );
+  } else {
+    encryptLetters(); //Criptografa as letras
+    cleaningInput();
+  }
 });
 
 let encryptLetters = () => {
@@ -27,6 +33,16 @@ let encryptLetters = () => {
 let cleaningInput = () => {
   inputText.value = "";
 };
+
+/* Regras Decodificador: 
+"enter" é convertido para "e" 
+"imes" é convertido para "i"
+"ai" é convertido para "a"
+"ober" é convertido para "o"
+"ufat" é convertido para "u"
+Apenas letras minúsculas
+Não permite acentuação     
+*/
 
 /* Regras Codificador: 
 "e" é convertido para "enter" 
