@@ -10,7 +10,7 @@
 </p>
 
 ## Meu projeto
-<p>
+
 	Comecei o desenvolvimento pelo JavaScript usando o layout HTML e CSS do projeto base.
 
 	Durante o processo de desenvolvimento passei vários momentos sem saber o que fazer, não por que o projeto era difícil mais sim por minha falta de conhecimento sobre o que usar para chegar no meu objetivo e nesse ponto a comunidade e as dicas da Alura ajudaram muito.
@@ -19,10 +19,10 @@
 
 	Usei como referência o layout pronto da alura e modifiquei o design e as tag usadas para se encaixar com minha visão de como poderia ser. Fiz ajustes para deixar o mais responsivo possivel para que não quebre em celular.
 
+
+
 	Ao final do projeto eu estava me sentindo muito mais a vontade com o JavaScript e aproveitei para testar varias coisa algumas não deram certo outras não eram o momento mais que no futuro com volto para implementar no projeto.
 
-
-</p>
 
 ### O que aprendi com esse projeto:
 - Que errar faz parte do processo;
