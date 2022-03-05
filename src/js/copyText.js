@@ -15,3 +15,8 @@ function copyText() {
     msgEncript.value = "";
   }
 }
+
+let buttonClear = document.getElementById("button-clear");
+buttonClear.addEventListener("click", () => {
+  msgEncript.value = "";
+});
