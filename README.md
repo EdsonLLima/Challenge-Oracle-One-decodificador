@@ -2,8 +2,8 @@
 ## Objetivo: Construa um decodificador de textos com Javascript
 
 - #challengeonelogicabr
-- [https://codificador-one-luizlima.netlify.app/](Codificador-Netlifly)
-- [https://edsonllima.github.io/projetos/codificador-one/](Codificador-GitHubPages )
+- [Codificador-Netlifly](https://codificador-one-luizlima.netlify.app/)
+- [Codificador-GitHub Pages ](https://edsonllima.github.io/projetos/codificador-one/)
 
 <p align="left">
 	<img alt="App Codificador de texto" src="/src/img/app-print.png" widht="80%">
