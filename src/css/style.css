@@ -24,7 +24,7 @@ body {
 
 .header {
   /* margin: 0 auto; */
-  padding: 2.5em 0;
+  padding: 1.8em 0;
 }
 
 .main {
@@ -32,7 +32,7 @@ body {
   margin: 0 auto;
   background-color: rgba(0, 195, 255, 0.164);
   border-radius: 2%;
-  padding: 2em;
+  padding: 1em;
 }
 
 .titulo {
@@ -93,7 +93,7 @@ body {
 
 @media screen and (max-width: 720px) {
   .titulo {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 
   .main {
