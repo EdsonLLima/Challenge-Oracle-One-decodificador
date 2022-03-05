@@ -28,7 +28,7 @@ body {
 }
 
 .main {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   background-color: rgba(0, 195, 255, 0.164);
   border-radius: 2%;
@@ -39,12 +39,12 @@ body {
   text-align: center;
   margin: 0 auto;
   color: #ededed;
-  font-size: 8rem;
+  font-size: 7rem;
   font-family: "Dancing Script", cursive;
 }
 
 .title-text {
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 0.6em;
 }
 
@@ -55,6 +55,10 @@ body {
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 0.5em;
   width: 50%;
+}
+
+.msg {
+  color: #ffffff;
 }
 
 .btn {
@@ -84,6 +88,8 @@ body {
   width: 100%;
   height: 20vh;
 }
+
+/*Responsividade*/
 
 @media screen and (max-width: 720px) {
   .titulo {
