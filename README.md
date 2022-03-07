@@ -3,6 +3,7 @@
 <p align="center">
 	<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/EdsonLLima/ChallengeOneCodificador" />
 	<img alt="Github License" src="https://img.shields.io/github/license/EdsonLLima/ChallengeOneCodificador" />
+	<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/EdsonLLima/ChallengeOneCodificador" />
 </P>
 
 ## Objetivo: Construir um decodificador de textos com Javascript
