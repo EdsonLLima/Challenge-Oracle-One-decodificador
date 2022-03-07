@@ -1,4 +1,10 @@
 # Challenge Oracle One - Iniciante em Programação
+
+<p align="center">
+	<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/EdsonLLima/ChallengeOneCodificador" />
+	<img alt="Github License" src="https://img.shields.io/github/license/EdsonLLima/ChallengeOneCodificador" />
+</P>
+
 ## Objetivo: Construir um decodificador de textos com Javascript
 
 ### Link das Demos:
