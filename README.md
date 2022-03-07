@@ -1,9 +1,11 @@
 # Challenge Oracle One - Iniciante em Programação
-## Objetivo: Construa um decodificador de textos com Javascript
+## Objetivo: Construir um decodificador de textos com Javascript
 
-- #challengeonelogicabr
+### Link das Demos:
 - [Codificador-Netlifly](https://codificador-one-luizlima.netlify.app/)
 - [Codificador-GitHub Pages ](https://edsonllima.github.io/projetos/codificador-one/)
+
+***
 
 <p align="left">
 	<img alt="App Codificador de texto" src="/src/img/app-print.png" widht="80%">
@@ -22,6 +24,12 @@ Usei como referência o layout pronto da alura e modifiquei o design e as tag us
 Ao final do projeto eu estava me sentindo muito mais a vontade com o JavaScript e aproveitei para testar varias coisa algumas não deram certo outras não eram o momento mais que no futuro com volto para implementar no projeto.
 
 ****
+
+### Como executar
+- Baixe o projeto ou use o Git Clone.
+- Após isso apenas execute o arquivo Index.html
+
+
 
 ### O que aprendi com esse projeto:
 - Que errar faz parte do processo;
